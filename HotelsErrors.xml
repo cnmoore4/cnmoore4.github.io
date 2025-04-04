@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotel xmlns="https:cnmoore4.github.io/hotles"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema"
+  xsi:schemaLocation="https:cnmoore4.github.io/hotels https://raw.githubusercontent.com/cnmoore4/cnmoore4.github.io/main/Hotels.xsd">
+
+  <Hotel>
+    <Name>Atlanta Marriott Marqius</Name>
+    <Phone>404-521 0000</Phone>
+    <Address>
+      <Street>Peachtree Center Avenue</Street>
+      <City>Atlanta</City>
+      <State>GA</State>
+      <Zip>30303</Zip>
+    </Address>
+    <Rating>4.2</Rating>
+  </Hotel>
+
+ <Hotel>
+    <Name>Hyatt Place</Name>
+    <Address>
+      <Number>7800</Number>
+      <Street>International Drive</Street>
+      <City>Bloomington</City>
+      <State>MN</State>
+      <Zip>55425</Zip>
+      <NearestAirpot>Minneapolis-Saint Paul</NearestAirport>
+    </Address>
+  </Hotel>
+
+  <Hotel>
+    <Name>Disney's Grand Californian</Name>
+    <Phone>714-635 2300</Phone>
+    <Address>
+      <Number>1600</Number>
+      <Street>Disneyland Dr</Street>
+      <City>Anaheim</City>
+      <State>CA</State>
+      <Zip>92802</Zip>
+      <NearestAiport>John Wayne</NearestAiport>
+    <Rating>4.7</Rating>
+  </Hotel>
+
+  <Hotel>
+    <Name>Disney's Grand Floridian</Name>
+    <Name>Disney's Wilderness Lodge</Name>
+    <Phone>407-824 3000</Phone>
+    <Address>
+      <Number>4401</Number>
+      <Street>Floridian Way</Street>
+      <City>Lake Buena Vista</City>
+      <State>FL</State>
+      <Zip>32830</Zip>
+      <NearestAirport>Orlando International</NearestAirport>
+    </Address>
+  </Hotel>
