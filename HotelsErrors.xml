@@ -23,7 +23,7 @@
       <City>Bloomington</City>
       <State>MN</State>
       <Zip>55425</Zip>
-      <NearestAirport>Minneapolis-Saint Paul</NearestAirport>
+      <NearstAirport>Minneapolis-Saint Paul</NearstAirport>
     </Address>
   </Hotel>
 
@@ -36,7 +36,7 @@
       <City>Anaheim</City>
       <State>CA</State>
       <Zip>92802</Zip>
-      <NearestAirport>John Wayne</NearestAirport>
+      <NearstAirport>John Wayne</NearstAirport>
     <Rating>4.7</Rating>
   </Hotel>
 
@@ -50,6 +50,6 @@
       <City>Lake Buena Vista</City>
       <State>FL</State>
       <Zip>32830</Zip>
-      <NearestAirport>Orlando International</NearestAirport>
+      <NearstAirport>Orlando International</NearstAirport>
     </Address>
   </Hotel>
