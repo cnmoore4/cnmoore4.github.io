@@ -17,7 +17,7 @@
     <xsd:element name="Name" type="xsd:string" minOccurs="1" maxOccurs="1"/>
     <xsd:element name="Phone" type="PhoneType" minOccurs="0" maxOccurs="2"/>
     <xsd:element name="Address" type="AddressDetails" minOccurs="1" maxOccurs="1"/>
-    <xsd:element name="Rating" type="xsd:positiveFloat" minOccurs="0" maxOccurs="1"/>
+    <xsd:element name="Rating" type="xsd:float" minOccurs="0" maxOccurs="1"/>
   </xsd:sequence>
 </xsd:complexType>
   
