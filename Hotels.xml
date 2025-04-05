@@ -13,7 +13,7 @@
       <City>Tempe</City>
       <State>AZ</State>
       <Zip>85281</Zip>
-      <NearestAirport>Sky Harbor</NearestAirport>
+      <NearstAirport>Sky Harbor</NearstAirport>
     </Address>
     <Rating>4.2</Rating>
   </Hotel>
@@ -92,7 +92,7 @@
       <City>Bloomington</City>
       <State>MN</State>
       <Zip>55425</Zip>
-      <NearestAirport>Minneapolis-Saint Paul</NearestAirport>
+      <NearstAirport>Minneapolis-Saint Paul</NearstAirport>
     </Address>
   </Hotel>
 
@@ -105,7 +105,7 @@
       <City>Anaheim</City>
       <State>CA</State>
       <Zip>92802</Zip>
-      <NearestAirport>John Wayne</NearestAirport>
+      <NearstAirport>John Wayne</NearstAirport>
     </Address>
     <Rating>4.7</Rating>
   </Hotel>
@@ -119,7 +119,7 @@
       <City>Lake Buena Vista</City>
       <State>FL</State>
       <Zip>32830</Zip>
-      <NearestAirport>Orlando International</NearestAirport>
+      <NearstAirport>Orlando International</NearstAirport>
     </Address>
   </Hotel>
 
@@ -133,7 +133,7 @@
       <City>Louisville</City>
       <State>KY</State>
       <Zip>40208</Zip>
-      <NearestAirport>Louisville Muhammad Ali</NearestAirport>
+      <NearstAirport>Louisville Muhammad Ali</NearstAirport>
     </Address>
     <Rating>4.0</Rating>
   </Hotel>
@@ -147,7 +147,7 @@
       <City>Denver</City>
       <State>CO</State>
       <Zip>80249</Zip>
-      <NearestAirport>Denver International</NearestAirport>
+      <NearstAirport>Denver International</NearstAirport>
     </Address>
   </Hotel>
   
