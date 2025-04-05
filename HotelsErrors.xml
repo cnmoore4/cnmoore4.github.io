@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Hotel xmlns="https:cnmoore4.github.io/hotles"
+<Hotel xmlns="https:cnmoore4.github.io/hotels"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema"
   xsi:schemaLocation="https:cnmoore4.github.io/hotels https://raw.githubusercontent.com/cnmoore4/cnmoore4.github.io/main/Hotels.xsd">
 
